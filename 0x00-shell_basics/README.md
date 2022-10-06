@@ -1,1 +1,1 @@
-list files and directories in long format including . files
+creating a new directory in tmp directory from any directory
