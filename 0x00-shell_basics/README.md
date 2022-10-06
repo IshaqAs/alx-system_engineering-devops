@@ -1,1 +1,1 @@
-bye bye first directory
+going a directory backward
